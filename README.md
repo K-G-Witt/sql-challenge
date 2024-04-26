@@ -43,4 +43,7 @@ This code was compiled and written by me for the sql-challenge class homework in
 **Assigning Foreign Keys where a table has already been created using References argumemnt:**
 https://www.w3schools.com/sql/sql_foreignkey.asp (accessed 26 April 2024).
 
+** Composite Keys:**
+https://www.simplilearn.com/tutorials/sql-tutorial/composite-key-in-sql#:~:text=Wrapping%20Up!-,What%20Is%20a%20Composite%20Key%20in%20SQL%3F,can%20uniquely%20identify%20any%20record. (accessed 26 April 2024).
+
 
