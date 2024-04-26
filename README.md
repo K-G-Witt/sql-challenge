@@ -21,7 +21,7 @@ Within the **EmployeeSQL** subfolder, executing the **table_schemata.sql** scrip
 
 ## Usage Instructions:
 ### Data Analysis:
-Following installation, executing the **data_analysis_queries** script will output the following information:
+Following installation, executing the **data_analysis_queries.sql** script will output the following information:
 1. Employee number, last name, first name, sex, and salary of each employee.
 2. First name, last name, and hire date for employees hired in 1986.
 3. Department number, department name, employeee number, last name, and first name for each departmental manager.
